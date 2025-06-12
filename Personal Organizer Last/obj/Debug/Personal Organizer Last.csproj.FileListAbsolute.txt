@@ -1,0 +1,421 @@
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\Furkan\source\C# Projects\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\OOP2LAB\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\zumuz\Desktop\fewfwe\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\Personal Organizer Last\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sertifikalarım\Personal Organizer Lastunay2\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\zumuz\Desktop\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\sonsonson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimson\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\abicimsonsonal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\şifremiunuttumçözüldü\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\usertypeçözüldü_sonhali\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\final_bitiş_yeter\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\yaptımamksonunda\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\grup9sonhali_şifredebugdüzeldi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\bunuaçıcazdeneyinherşeyi\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\MSI\Desktop\sonoop bunda başar\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe.config
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\bin\Debug\Personal Organizer Last.pdb
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.AdminPanel.adminPanel.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\ForgotPasswordForm.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Form1.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.NoteBook.Notes.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Personal_Information.PersonalInformation.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.PhoneBook.PhoneBook.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Properties.Resources.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.RegisterControl.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.Reminder.Reminder.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.SalaryCalculator.SalaryCalculator.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal_Organizer_Last.UserManagement.resources
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.exe
+C:\Users\merve\Desktop\debuglardüzeltildisonhal\sonsonson\Personal Organizer Lastunay4\Personal Organizer Last\obj\Debug\Personal Organizer Last.pdb

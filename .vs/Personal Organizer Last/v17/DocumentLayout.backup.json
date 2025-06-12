@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\adminpanel\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\adminpanel\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\adminpanel\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\adminpanel\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|c:\\users\\merve\\desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\personal organizer lastunay4\\personal organizer last\\personal_information\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\personal_information\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\personal_information\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\personal_information\\personalinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\salarycalculator\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\salarycalculator\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\loginscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\loginscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\salarycalculator\\salarycalculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\salarycalculator\\salarycalculatorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\phonebook\\phonebookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\phonebook\\phonebookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\phonebook\\phonebookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\phonebook\\phonebookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\personal_information\\personalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\personal_information\\personalinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\notebook\\notesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\notebook\\notesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\notebook\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\notebook\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\notebook\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\notebook\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\notebook\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\notebook\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\salarycalculator\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\salarycalculator\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\phonebook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\phonebook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\phonebook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\phonebook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\personal organizer last\\reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B1CD75-0088-43F5-B2E1-9A881D525868}|Personal Organizer Last\\Personal Organizer Last.csproj|solutionrelative:personal organizer last\\reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonalInformation.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Personal_Information\\PersonalInformation.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Personal_Information\\PersonalInformation.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Personal_Information\\PersonalInformation.cs",
+              "RelativeToolTip": "Personal Organizer Last\\Personal_Information\\PersonalInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:30:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotesManager.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\NotesManager.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\NoteBook\\NotesManager.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\NotesManager.cs",
+              "RelativeToolTip": "Personal Organizer Last\\NoteBook\\NotesManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:16:48.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\EmailHelper.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\EmailHelper.cs",
+              "RelativeToolTip": "Personal Organizer Last\\EmailHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:16:15.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Form1.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\sonoop bunda ba\u015Far\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MSI\\Desktop\\sonoop bunda ba\u015Far\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:16:14.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\AdminPanel\\adminPanel.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\AdminPanel\\adminPanel.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\AdminPanel\\adminPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Personal Organizer Last\\AdminPanel\\adminPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:38:23.734Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\AdminPanel\\adminPanel.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\AdminPanel\\adminPanel.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\AdminPanel\\adminPanel.cs",
+              "RelativeToolTip": "Personal Organizer Last\\AdminPanel\\adminPanel.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAwwLsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:38:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhoneBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBookManager.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\PhoneBook\\PhoneBookManager.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBookManager.cs",
+              "RelativeToolTip": "Personal Organizer Last\\PhoneBook\\PhoneBookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:17:08.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalaryCalculatorControl.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\SalaryCalculator\\SalaryCalculatorControl.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\SalaryCalculator\\SalaryCalculatorControl.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\SalaryCalculator\\SalaryCalculatorControl.cs",
+              "RelativeToolTip": "Personal Organizer Last\\SalaryCalculator\\SalaryCalculatorControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:17:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Form1.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Form1.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Form1.cs",
+              "RelativeToolTip": "Personal Organizer Last\\Form1.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:26:15.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\LoginScreenManager.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\LoginScreenManager.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\LoginScreenManager.cs",
+              "RelativeToolTip": "Personal Organizer Last\\LoginScreenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:15:53.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Program.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Program.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Program.cs",
+              "RelativeToolTip": "Personal Organizer Last\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:15:43.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\User.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\User.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\User.cs",
+              "RelativeToolTip": "Personal Organizer Last\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:15:23.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Reminder\\Reminder.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Reminder\\Reminder.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Reminder\\Reminder.cs",
+              "RelativeToolTip": "Personal Organizer Last\\Reminder\\Reminder.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAAAKsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:55:36.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Reminder.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Reminder\\Reminder.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Reminder\\Reminder.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\sonoop bunda ba\u015Far\\bunua\u00E7\u0131cazdeneyinher\u015Feyi\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Reminder\\Reminder.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MSI\\Desktop\\sonoop bunda ba\u015Far\\bunua\u00E7\u0131cazdeneyinher\u015Feyi\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Reminder\\Reminder.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:54:32.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PasswordHelper.cs",
+              "RelativeToolTip": "Personal Organizer Last\\PasswordHelper.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:22:40.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Session.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Session.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Session.cs",
+              "RelativeToolTip": "Personal Organizer Last\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:41:23.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\UserManagement.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\UserManagement.cs",
+              "RelativeToolTip": "Personal Organizer Last\\UserManagement.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAALkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:03:45.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagement.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\UserManagement.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\sonoop bunda ba\u015Far\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\UserManagement.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MSI\\Desktop\\sonoop bunda ba\u015Far\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\UserManagement.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:02:46.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonalInformation.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Personal_Information\\PersonalInformation.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Personal_Information\\PersonalInformation.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\sonoop bunda ba\u015Far\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Personal_Information\\PersonalInformation.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MSI\\Desktop\\sonoop bunda ba\u015Far\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Personal_Information\\PersonalInformation.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:02:39.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\PhoneBook\\PhoneBook.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBook.cs",
+              "RelativeToolTip": "Personal Organizer Last\\PhoneBook\\PhoneBook.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:52:52.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhoneBookController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBookController.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\PhoneBook\\PhoneBookController.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBookController.cs",
+              "RelativeToolTip": "Personal Organizer Last\\PhoneBook\\PhoneBookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:52:48.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PhoneBook.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\PhoneBook\\PhoneBook.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\sonoop bunda ba\u015Far\\bunua\u00E7\u0131cazdeneyinher\u015Feyi\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBook.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MSI\\Desktop\\sonoop bunda ba\u015Far\\bunua\u00E7\u0131cazdeneyinher\u015Feyi\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\PhoneBook\\PhoneBook.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:52:46.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "personalInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Personal_Information\\personalInfoController.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\Personal_Information\\personalInfoController.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\Personal_Information\\personalInfoController.cs",
+              "RelativeToolTip": "Personal Organizer Last\\Personal_Information\\personalInfoController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:48:27.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\NotesController.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\NoteBook\\NotesController.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\NotesController.cs",
+              "RelativeToolTip": "Personal Organizer Last\\NoteBook\\NotesController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAF0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:45:38.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SalaryCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\SalaryCalculator\\SalaryCalculator.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\SalaryCalculator\\SalaryCalculator.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\SalaryCalculator\\SalaryCalculator.cs",
+              "RelativeToolTip": "Personal Organizer Last\\SalaryCalculator\\SalaryCalculator.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAGgBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:24:45.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalaryCalculator.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\SalaryCalculator\\SalaryCalculator.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\SalaryCalculator\\SalaryCalculator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\sonoop bunda ba\u015Far\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\SalaryCalculator\\SalaryCalculator.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MSI\\Desktop\\sonoop bunda ba\u015Far\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\SalaryCalculator\\SalaryCalculator.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:24:41.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\Notes.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\NoteBook\\Notes.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\Notes.cs",
+              "RelativeToolTip": "Personal Organizer Last\\NoteBook\\Notes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:16:22.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Notes.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\debuglard\u00FCzeltildisonhal\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\Notes.cs",
+              "RelativeDocumentMoniker": "Personal Organizer Last\\NoteBook\\Notes.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\sonoop bunda ba\u015Far\\bunua\u00E7\u0131cazdeneyinher\u015Feyi\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\Notes.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\MSI\\Desktop\\sonoop bunda ba\u015Far\\bunua\u00E7\u0131cazdeneyinher\u015Feyi\\sonsonson\\Personal Organizer Lastunay4\\Personal Organizer Last\\NoteBook\\Notes.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:16:20.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
